@@ -4,10 +4,10 @@
 
 The task requirements were:
 
--   Small dataset (30--35 photos)\
--   7 real-world classification tags\
--   Must run smoothly on a normal laptop\
--   No model training required\
+-   Small dataset (30--35 photos)
+-   7 real-world classification tags
+-   Must run smoothly on a normal laptop
+-   No model training required
 -   Output should automatically sort photos into folders
 
 Because of these constraints, the best solution is a **Hybrid AI +
